@@ -42,7 +42,7 @@ class GameTasks():
 			You will look over the code to insure that it is complete and
 			does the job that it is supposed to do.
 
-			Your Final answer must be the full python code, only the python code and nothing else.
+			Your Final answer must be the full PYTHON CODE, only the python code and nothing else.
 			"""),
 			agent=agent
 		)
